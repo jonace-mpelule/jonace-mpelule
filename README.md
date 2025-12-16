@@ -1,6 +1,6 @@
 [![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)](https://portfolio.jonacempelule.com)
 
-<h1 align="center">Hi 👋, I'm Jonace Mpelule 'aka' Sir Jonace The Deduper</h1>
+<h1 align="center">Hi 👋, I'm Jonace Mpelule 'aka' SirJonaceTheThird</h1>
 <h3 align="center">A Self-taught fullstack developer and a passionate creative.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXp1Y3A3dW1zcnJzcGpvcTh5eGI3Y3U0Y2ptZXgydWJqcThpMmQ3ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp" >
